@@ -1,0 +1,11 @@
+F:\Project\Calculator_Pz№3\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+F:\Project\Calculator_Pz№3\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+F:\Project\Calculator_Pz№3\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+F:\Project\Calculator_Pz№3\CalculatorApp\CalculatorApp\bin\Debug\CalculatorLibrary.dll
+F:\Project\Calculator_Pz№3\CalculatorApp\CalculatorApp\bin\Debug\CalculatorLibrary.pdb
+F:\Project\Calculator_Pz№3\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.AssemblyReference.cache
+F:\Project\Calculator_Pz№3\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.SuggestedBindingRedirects.cache
+F:\Project\Calculator_Pz№3\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+F:\Project\Calculator_Pz№3\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.CopyComplete
+F:\Project\Calculator_Pz№3\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+F:\Project\Calculator_Pz№3\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
